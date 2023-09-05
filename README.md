@@ -23,6 +23,7 @@ I'm a seasoned Software Engineer with 9 years of industry experience, spending t
 
 While 🔭 Golang is my primary language, I've also worked with:
 
+- Java
 - Python
 - PHP
 - TypeScript/JavaScript
