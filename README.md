@@ -23,6 +23,24 @@ I'm a Software Engineer with 9 years of industry experience, spending the last 3
 
 ⚡ Fun fact: I'm a dedicated fan of 'Souls-like' games. I enjoy the challenging gameplay and the satisfaction of overcoming tough obstacles.
 
+## Code Examples
+- [DDD](https://github.com/SmotrovaLilit/golang-reference-application)
+- [Tic Tac Toe](https://github.com/SmotrovaLilit/tictactoe)
+- [Algorithms](https://github.com/SmotrovaLilit/kata)
+- [Go samples](https://github.com/SmotrovaLilit/go-samples)
+
+## Tools
+- [For testing CORS behaviour](https://github.com/SmotrovaLilit/cors-sandbox)
+- [For testing differences in DBMS-s](https://github.com/SmotrovaLilit/sql-sandbox)
+
+## Certificates
+
 <a href="https://www.scrum.org/user/765177">
   <img align="left" src="ProfessionalScrumDeveloperI.png" alt="Professional Scrum Developer I" width="400" />
 </a>
+
+
+
+
+
+
