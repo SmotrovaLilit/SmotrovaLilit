@@ -22,9 +22,12 @@ I'm a Software Engineer with 9 years of industry experience, spending the last 3
 📫 How to reach me: [smotrovalilit@gmail.com](mailto:smotrovalilit@gmail.com) or telegram https://www.linkedin.com/in/smotrovalilit/
 
 ⚡ Fun fact: I'm a dedicated fan of 'Souls-like' games. I enjoy the challenging gameplay and the satisfaction of overcoming tough obstacles.
-
+## Certificates
 <a href="https://www.scrum.org/user/765177">
-  <img align="left" src="ProfessionalScrumDeveloperI.png" alt="Professional Scrum Developer I" width="400" />
+  <img align="left" width="200"  src="ProfessionalScrumDeveloperI.png" alt="Professional Scrum Developer I" width="400" />
+</a>
+<a href="https://www.credential.net/7b6595a3-8baf-4225-b03c-f0c1df31db81">
+  <img width="200" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/91471289" alt="OSWA" />
 </a>
 
 ## Code Examples
