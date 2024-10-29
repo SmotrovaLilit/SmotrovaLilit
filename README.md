@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer with 9 years of industry experience, spending the last 3.5 years specializing in the development of secure enterprise systems.
+I'm a Software Engineer with 10 years of industry experience, spending the last 3.5 years specializing in the development of secure enterprise systems.
 
 💡 I'm passionate about problem-solving, troubleshooting, exploring novel technologies, and taking on new challenges.
 
@@ -31,7 +31,7 @@ I'm a Software Engineer with 9 years of industry experience, spending the last 3
 </a>
 
 ## Code Examples
- | [DDD](https://github.com/SmotrovaLilit/golang-reference-application) | 
+ | [DDD](https://github.com/SmotrovaLilit/blot) | 
   [Tic Tac Toe](https://github.com/SmotrovaLilit/tictactoe) | 
   [Algorithms](https://github.com/SmotrovaLilit/kata) |
   [Go samples](https://github.com/SmotrovaLilit/go-samples) |
