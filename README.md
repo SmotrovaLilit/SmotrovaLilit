@@ -19,9 +19,10 @@ I'm a Software Engineer with 10 years of industry experience, spending the last 
 
 💡 I'm passionate about problem-solving, troubleshooting, exploring novel technologies, and taking on new challenges.
 
-📫 How to reach me: [smotrovalilit@gmail.com](mailto:smotrovalilit@gmail.com) or telegram https://www.linkedin.com/in/smotrovalilit/
+📫 How to reach me: [smotrovalilit@gmail.com](mailto:smotrovalilit@gmail.com) or linkendin https://www.linkedin.com/in/smotrovalilit/
 
-⚡ Fun fact: I'm a dedicated fan of 'Souls-like' games. I enjoy the challenging gameplay and the satisfaction of overcoming tough obstacles.
+⚡ Fun fact: I'm a dedicated fan of 'Souls-like' games
+
 ## Certifications
 <a href="https://www.scrum.org/user/765177">
   <img align="left" width="200"  src="professional-scrum-developer-i-psd-i.png" alt="Professional Scrum Developer I" width="400" />
@@ -31,15 +32,14 @@ I'm a Software Engineer with 10 years of industry experience, spending the last 
 </a>
 
 ## Code Examples
- | [DDD](https://github.com/SmotrovaLilit/blot) | 
+ | [DDD, CQRS ](https://github.com/SmotrovaLilit/accounts) | 
+ [AI Integration ](https://github.com/SmotrovaLilit/voiceassistant) | 
   [Tic Tac Toe](https://github.com/SmotrovaLilit/tictactoe) | 
   [Algorithms](https://github.com/SmotrovaLilit/kata) |
   [Go samples](https://github.com/SmotrovaLilit/go-samples) |
+  [UI ](https://github.com/SmotrovaLilit/blot) | 
 
 
-## Tools
- | [Testing CORS behaviour](https://github.com/SmotrovaLilit/cors-sandbox) | 
-  [Testing differences in DBMS-s](https://github.com/SmotrovaLilit/sql-sandbox) |
 
 
 
