@@ -21,9 +21,6 @@ I'm a Software Engineer with 10 years of industry experience, spending the last 
 
 📫 How to reach me: [smotrovalilit@gmail.com](mailto:smotrovalilit@gmail.com) or linkendin https://www.linkedin.com/in/smotrovalilit/
 
-## Hobbies
-
-I enjoy dancing, knitting, and making beaded flowers. I also play Soulslike games and Path of Exile 2.
 
 ## Certifications
 <a href="https://www.scrum.org/user/765177">
@@ -42,6 +39,7 @@ I enjoy dancing, knitting, and making beaded flowers. I also play Soulslike game
   [UI ](https://github.com/SmotrovaLilit/blot) | 
 
 
+## Hobbies
 
-
+I enjoy dancing 💃, crocheting 🧶, doing satin stitch embroidery 🪡, and sewing clothes 👗. I also play Elden Ring🎮 and Path of Exile 2 🛋️.
 
